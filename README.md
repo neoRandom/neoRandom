@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5589d6&height=120&section=header"/>
 
-<h1 align="center">Hi 👋, I'm Fellipe Leonardo</h1>
+<h1 align="center">Hi 👋, I'm Fellipe Leonardo (a.k.a. Neo)</h1>
 <h3>
 <blockquote>
   “Intelligence is the ability to avoid doing work, yet getting the work done.”
@@ -22,40 +22,40 @@
 ## Projects
 
 ### Web Development
-- [The Game Tips](https://github.com/rakRandom/dicas-de-jogos-site) (Website)
-- [File Sharing System Host](https://github.com/rakRandom/file-sharing-system-host)
-- [CSS Flexbox](https://github.com/rakRandom/css) (Guide)
-- [Expense Tracker](https://github.com/rakRandom/expense-tracker)
-- [Teams Webapp Clone](https://github.com/rakRandom/teams-clone)
+- [The Game Tips](https://github.com/neoRandom/dicas-de-jogos-site) (Website)
+- [File Sharing System Host](https://github.com/neoRandom/file-sharing-system-host)
+- [CSS Flexbox](https://github.com/neoRandom/css) (Guide)
+- [Expense Tracker](https://github.com/neoRandom/expense-tracker)
+- [Teams Webapp Clone](https://github.com/neoRandom/teams-clone)
 
 ### HTTP Server and Web API (Things that somehow have network and internet as their focus)
-- [HTTP Server in Rust](https://github.com/rakRandom/rust-http-server)
-- [HTTP Server in C](https://github.com/rakRandom/c-http-server)
-- [Youtube Downloader](https://github.com/rakRandom/youtube-downloader)
-- [The Game Tips](https://github.com/rakRandom/dicas-de-jogos-api) (API)
-- [File Sharing System Client](https://github.com/rakRandom/file-sharing-system-client)
-- [Python Host Finder](https://github.com/rakRandom/python-host-finder)
+- [HTTP Server in Rust](https://github.com/neoRandom/rust-http-server)
+- [HTTP Server in C](https://github.com/neoRandom/c-http-server)
+- [Youtube Downloader](https://github.com/neoRandom/youtube-downloader)
+- [The Game Tips](https://github.com/neoRandom/dicas-de-jogos-api) (API)
+- [File Sharing System Client](https://github.com/neoRandom/file-sharing-system-client)
+- [Python Host Finder](https://github.com/neoRandom/python-host-finder)
 
 ### CRUD
-- [MySQL CRUD in Python](https://github.com/rakRandom/python-mysql-crud) (Guide)
-- [MySQL CRUD in Java](https://github.com/rakRandom/java-crud)
-- [MySQL CRUD in PHP](https://github.com/rakRandom/php-crud)
+- [MySQL CRUD in Python](https://github.com/neoRandom/python-mysql-crud) (Guide)
+- [MySQL CRUD in Java](https://github.com/neoRandom/java-crud)
+- [MySQL CRUD in PHP](https://github.com/neoRandom/php-crud)
 
 ### Games
-- [Pong in Godot](https://github.com/rakRandom/godot-ping-pong)
-- [Dark Forest Game](https://github.com/rakRandom/dark-forest)
-- [Pong in Python](https://github.com/rakRandom/PingPong)
-- [The FPS](https://github.com/rakRandom/the-fps)
-- [Runneer Game](https://github.com/rakRandom/Runneer)
+- [Pong in Godot](https://github.com/neoRandom/godot-ping-pong)
+- [Dark Forest Game](https://github.com/neoRandom/dark-forest)
+- [Pong in Python](https://github.com/neoRandom/PingPong)
+- [The FPS](https://github.com/neoRandom/the-fps)
+- [Runneer Game](https://github.com/neoRandom/Runneer)
 
 ### Low Level (that doesn't fit in previous categories)
-- [Neo New Neovim](https://github.com/rakRandom/neo-new-neovim)
-- [Brainfuck Projects](https://github.com/rakRandom/brainduck-projects) (Interpreters and Compilers)
-- [Gravity Simulator](https://github.com/rakRandom/gravity-simulator)
+- [Neo New Neovim](https://github.com/neoRandom/neo-new-neovim)
+- [Brainfuck Projects](https://github.com/neoRandom/brainduck-projects) (Interpreters and Compilers)
+- [Gravity Simulator](https://github.com/neoRandom/gravity-simulator)
 
 ### Bundles
-- [Python Projects](https://github.com/rakRandom/python-projects)
-- [Web Projects](https://github.com/rakRandom/web-projects)
+- [Python Projects](https://github.com/neoRandom/python-projects)
+- [Web Projects](https://github.com/neoRandom/web-projects)
 
 ### Projects outside of GitHub
 - 8-Bits Computer - [Logisim Evolution](https://github.com/logisim-evolution/logisim-evolution)
