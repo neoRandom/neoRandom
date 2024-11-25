@@ -69,11 +69,11 @@
   <div align="center">
     <h2>Technologies that I use</h2>
     <h3> Most Experience </h3>
-    <img  src="https://skillicons.dev/icons?i=html,css,js,ts,python,flask,svelte,tailwind,godot,cpp,mysql,git&perline=6">
+    <img  src="https://skillicons.dev/icons?i=html,css,js,ts,svelte,git,python,flask,php,tailwind,cpp,c&perline=6">
     <h3> Advanced Competence </h3>
-    <img src="https://skillicons.dev/icons?i=c,rust,react,vite,java,figma">
+    <img src="https://skillicons.dev/icons?i=rust,mysql,react,godot,java,figma">
     <h3> Proficient Usage </h3>
-    <img src="https://skillicons.dev/icons?i=tauri,php,nodejs,next,firebase,arduino">
+    <img src="https://skillicons.dev/icons?i=tauri,vite,nodejs,next,firebase,arduino">
   </div>
 </section>
 
