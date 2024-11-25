@@ -52,9 +52,12 @@
 - [The FPS](https://github.com/neoRandom/the-fps)
 - [Runneer Game](https://github.com/neoRandom/Runneer)
 
-### Low Level (that doesn't fit in previous categories)
-- [Neo New Neovim](https://github.com/neoRandom/neo-new-neovim)
+### Low Level / High Performance
 - [Gravity Simulator](https://github.com/neoRandom/gravity-simulator)
+
+### Utils
+- [Pomodoro Timer](https://github.com/neoRandom/godot-pomodoro) (Godot)
+- [SQL Pseudocode Transpiler](https://github.com/neoRandom/sql-pseudocode-transpiler)
 
 ### Bundles
 - [Python Projects](https://github.com/neoRandom/python-projects)
@@ -65,6 +68,12 @@
 - [Temperature and Humidity Sensor](https://www.tinkercad.com/things/lOL1p0BtqZh-temp-and-humi-sensor) - [Tinkercad](https://www.tinkercad.com/)
 - [Arduino Calculator](https://www.tinkercad.com/things/27Vxyu2kgPk-calculadora) - [Tinkercad](https://www.tinkercad.com/)
 - [Essencial Suplementos Website](https://www.essencialsuplementosnat.com.br/) - [Wix](https://www.wix.com/)
+
+### To finish
+- [Neo New Neovim](https://github.com/neoRandom/neo-new-neovim)
+- [Virtual Machine in C](https://github.com/neoRandom/virtual-machine-in-c)
+- [mNeomonics](https://github.com/neoRandom/mneomonics)
+- [neWord](https://github.com/neoRandom/neword)
 
 <br />
 
