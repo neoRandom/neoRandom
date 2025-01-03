@@ -83,7 +83,7 @@
     <h3> Most Experience </h3>
     <img  src="https://skillicons.dev/icons?i=html,css,js,ts,svelte,git,python,flask,php,tailwind,cpp,c&perline=6">
     <h3> Advanced Competence </h3>
-    <img src="https://skillicons.dev/icons?i=rust,mysql,react,godot,java,figma">
+    <img src="https://skillicons.dev/icons?i=rust,mysql,react,godot,java,kotlin">
     <h3> Proficient Usage </h3>
     <img src="https://skillicons.dev/icons?i=tauri,vite,nodejs,next,firebase,arduino">
   </div>
