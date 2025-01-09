@@ -49,6 +49,12 @@
 </details>
 
 <details open>
+  <summary> <b>Android Development</b> </summary>
+
+  - [Art Space](https://github.com/neoRandom/art-space)
+</details>
+
+<details open>
 <summary> <b>HTTP Server and Web API (Things that somehow have network and internet as their focus)</b> </summary>
 
 - [HTTP Server in Rust](https://github.com/neoRandom/rust-http-server)
@@ -68,34 +74,35 @@
 </details>
 
 <details open>
-<summary> <b>Games</b> </summary>
-
-- [Pong in Godot](https://github.com/neoRandom/godot-ping-pong)
-- [Dark Forest Game](https://github.com/neoRandom/dark-forest)
-- [Pong in Python](https://github.com/neoRandom/PingPong)
-- [The FPS](https://github.com/neoRandom/the-fps)
-- [Runneer Game](https://github.com/neoRandom/Runneer)
+  <summary> <b>Games</b> </summary>
+  
+  - [Pong in Godot](https://github.com/neoRandom/godot-ping-pong)
+  - [Dark Forest Game](https://github.com/neoRandom/dark-forest)
+  - [Pong in Python](https://github.com/neoRandom/PingPong)
+  - [The FPS](https://github.com/neoRandom/the-fps)
+  - [Runneer Game](https://github.com/neoRandom/Runneer)
 </details>
 
 <details open>
-<summary> <b>Low Level / High Performance</b> </summary>
-
-- [Gravity Simulator](https://github.com/neoRandom/gravity-simulator)
+  <summary> <b>Low Level / High Performance</b> </summary>
+  
+  - [Gravity Simulator](https://github.com/neoRandom/gravity-simulator)
 </details>
 
 <details>
-<summary> <b>Utils</b> </summary>
-
-- [Asymmetric Cryptography](https://github.com/neoRandom/asymmetric-cryptography)
-- [Pomodoro Timer](https://github.com/neoRandom/godot-pomodoro) (Godot)
-- [SQL Pseudocode Transpiler](https://github.com/neoRandom/sql-pseudocode-transpiler)
+  <summary> <b>Utils</b> </summary>
+  
+  - [Asymmetric Cryptography](https://github.com/neoRandom/asymmetric-cryptography)
+  - [Pomodoro Timer](https://github.com/neoRandom/godot-pomodoro) (Godot)
+  - [SQL Pseudocode Transpiler](https://github.com/neoRandom/sql-pseudocode-transpiler)
 </details>
 
 <details>
-<summary> <b>Bundles</b> </summary>
-
-- [Python Projects](https://github.com/neoRandom/python-projects)
-- [Web Projects](https://github.com/neoRandom/web-projects)
+  <summary> <b>Bundles</b> </summary>
+  
+  - [Python Projects](https://github.com/neoRandom/python-projects)
+  - [Web Projects](https://github.com/neoRandom/web-projects)
+  - [Assembly (x86_64 Linux NASM)](https://github.com/neoRandom/assembly-x86_64-nasm)
 </details>
 
 <details>
