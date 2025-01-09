@@ -62,6 +62,7 @@
 - [Youtube Downloader](https://github.com/neoRandom/youtube-downloader)
 - [The Game Tips](https://github.com/neoRandom/dicas-de-jogos-api) (API)
 - [File Sharing System Client](https://github.com/neoRandom/file-sharing-system-client)
+- [CLI Message App](https://github.com/neoRandom/cli-message-app) (Python; Linunx)
 - [Python Host Finder](https://github.com/neoRandom/python-host-finder)
 </details>
 
@@ -102,7 +103,7 @@
   
   - [Python Projects](https://github.com/neoRandom/python-projects)
   - [Web Projects](https://github.com/neoRandom/web-projects)
-  - [Assembly (x86_64 Linux NASM)](https://github.com/neoRandom/assembly-x86_64-nasm)
+  - [Assembly Projects](https://github.com/neoRandom/assembly-x86_64-nasm) (x86_64; Linux; NASM)
 </details>
 
 <details>
