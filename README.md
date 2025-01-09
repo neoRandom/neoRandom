@@ -21,67 +21,100 @@
 
 ## Projects
 
-### Best
+<details open>
+<summary> <b>Best</b> </summary>
+  
 - [Full Stack Chat App](https://github.com/neoRandom/fullstack-chat-app)
 - [Quickmart](https://github.com/neoRandom/quickmart-website) (Website)
 - [The Game Tips](https://github.com/neoRandom/the-game-tips-website) (Website)
 - [Brainfuck Projects](https://github.com/neoRandom/brainduck-projects) (Interpreters and Compilers)
+</details>
 
-### Personal
+<details open>
+<summary> <b>Personal</b> </summary>
+
 - [Portfolio]()
 - [New Year Bingo](https://github.com/neoRandom/new-year-bingo) (Website)
 - [Advent of Code](https://github.com/neoRandom/advent-of-code) (Code storage)
 - [Snippet Converter](https://github.com/neoRandom/quicksnip-snippet-converter)
+</details>
 
-### Web Development
+<details open>
+<summary> <b>Web Development</b> </summary>
+
 - [File Sharing System Host](https://github.com/neoRandom/file-sharing-system-host)
 - [CSS Flexbox](https://github.com/neoRandom/css) (Guide)
 - [Expense Tracker](https://github.com/neoRandom/expense-tracker)
 - [Teams Webapp Clone](https://github.com/neoRandom/teams-clone)
+</details>
 
-### HTTP Server and Web API (Things that somehow have network and internet as their focus)
+<details open>
+<summary> <b>HTTP Server and Web API (Things that somehow have network and internet as their focus)</b> </summary>
+
 - [HTTP Server in Rust](https://github.com/neoRandom/rust-http-server)
 - [HTTP Server in C](https://github.com/neoRandom/c-http-server)
 - [Youtube Downloader](https://github.com/neoRandom/youtube-downloader)
 - [The Game Tips](https://github.com/neoRandom/dicas-de-jogos-api) (API)
 - [File Sharing System Client](https://github.com/neoRandom/file-sharing-system-client)
 - [Python Host Finder](https://github.com/neoRandom/python-host-finder)
+</details>
 
-### CRUD
+<details open>
+<summary> <b>CRUD</b> </summary>
+
 - [MySQL CRUD in Python](https://github.com/neoRandom/python-mysql-crud) (Guide)
 - [MySQL CRUD in Java](https://github.com/neoRandom/java-crud)
 - [MySQL CRUD in PHP](https://github.com/neoRandom/php-crud)
+</details>
 
-### Games
+<details open>
+<summary> <b>Games</b> </summary>
+
 - [Pong in Godot](https://github.com/neoRandom/godot-ping-pong)
 - [Dark Forest Game](https://github.com/neoRandom/dark-forest)
 - [Pong in Python](https://github.com/neoRandom/PingPong)
 - [The FPS](https://github.com/neoRandom/the-fps)
 - [Runneer Game](https://github.com/neoRandom/Runneer)
+</details>
 
-### Low Level / High Performance
+<details open>
+<summary> <b>Low Level / High Performance</b> </summary>
+
 - [Gravity Simulator](https://github.com/neoRandom/gravity-simulator)
+</details>
 
-### Utils
+<details>
+<summary> <b>Utils</b> </summary>
+
 - [Asymmetric Cryptography](https://github.com/neoRandom/asymmetric-cryptography)
 - [Pomodoro Timer](https://github.com/neoRandom/godot-pomodoro) (Godot)
 - [SQL Pseudocode Transpiler](https://github.com/neoRandom/sql-pseudocode-transpiler)
+</details>
 
-### Bundles
+<details>
+<summary> <b>Bundles</b> </summary>
+
 - [Python Projects](https://github.com/neoRandom/python-projects)
 - [Web Projects](https://github.com/neoRandom/web-projects)
+</details>
 
-### Projects outside of GitHub
+<details>
+<summary> <b>Projects outside of GitHub</b> </summary>
+
 - 8-Bits Computer - [Logisim Evolution](https://github.com/logisim-evolution/logisim-evolution)
 - [Temperature and Humidity Sensor](https://www.tinkercad.com/things/lOL1p0BtqZh-temp-and-humi-sensor) - [Tinkercad](https://www.tinkercad.com/)
 - [Arduino Calculator](https://www.tinkercad.com/things/27Vxyu2kgPk-calculadora) - [Tinkercad](https://www.tinkercad.com/)
 - [Essencial Suplementos Website](https://www.essencialsuplementosnat.com.br/) - [Wix](https://www.wix.com/)
+</details>
 
-### To finish
+<details>
+<summary> <b>To finish</b> </summary>
+
 - [Neo New Neovim](https://github.com/neoRandom/neo-new-neovim)
 - [Virtual Machine in C](https://github.com/neoRandom/virtual-machine-in-c)
 - [mNeomonics](https://github.com/neoRandom/mneomonics)
 - [neWord](https://github.com/neoRandom/neword)
+</details>
 
 <br />
 
