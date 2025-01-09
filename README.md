@@ -22,11 +22,13 @@
 ## Projects
 
 ### Best
+- [Full Stack Chat App](https://github.com/neoRandom/fullstack-chat-app)
 - [Quickmart](https://github.com/neoRandom/quickmart-website) (Website)
 - [The Game Tips](https://github.com/neoRandom/the-game-tips-website) (Website)
 - [Brainfuck Projects](https://github.com/neoRandom/brainduck-projects) (Interpreters and Compilers)
 
 ### Web Development
+- [New Year Bingo](https://github.com/neoRandom/new-year-bingo)
 - [File Sharing System Host](https://github.com/neoRandom/file-sharing-system-host)
 - [CSS Flexbox](https://github.com/neoRandom/css) (Guide)
 - [Expense Tracker](https://github.com/neoRandom/expense-tracker)
