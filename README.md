@@ -62,7 +62,7 @@
 - [Youtube Downloader](https://github.com/neoRandom/youtube-downloader)
 - [The Game Tips](https://github.com/neoRandom/dicas-de-jogos-api) (API)
 - [File Sharing System Client](https://github.com/neoRandom/file-sharing-system-client)
-- [CLI Message App](https://github.com/neoRandom/cli-message-app) (Python; Linunx)
+- [CLI Message App](https://github.com/neoRandom/cli-message-app) (Python; Linux)
 - [Python Host Finder](https://github.com/neoRandom/python-host-finder)
 </details>
 
