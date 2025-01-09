@@ -27,8 +27,13 @@
 - [The Game Tips](https://github.com/neoRandom/the-game-tips-website) (Website)
 - [Brainfuck Projects](https://github.com/neoRandom/brainduck-projects) (Interpreters and Compilers)
 
+### Personal
+- [Portfolio]()
+- [New Year Bingo](https://github.com/neoRandom/new-year-bingo) (Website)
+- [Advent of Code](https://github.com/neoRandom/advent-of-code) (Code storage)
+- [Snippet Converter](https://github.com/neoRandom/quicksnip-snippet-converter)
+
 ### Web Development
-- [New Year Bingo](https://github.com/neoRandom/new-year-bingo)
 - [File Sharing System Host](https://github.com/neoRandom/file-sharing-system-host)
 - [CSS Flexbox](https://github.com/neoRandom/css) (Guide)
 - [Expense Tracker](https://github.com/neoRandom/expense-tracker)
@@ -58,6 +63,7 @@
 - [Gravity Simulator](https://github.com/neoRandom/gravity-simulator)
 
 ### Utils
+- [Asymmetric Cryptography](https://github.com/neoRandom/asymmetric-cryptography)
 - [Pomodoro Timer](https://github.com/neoRandom/godot-pomodoro) (Godot)
 - [SQL Pseudocode Transpiler](https://github.com/neoRandom/sql-pseudocode-transpiler)
 
