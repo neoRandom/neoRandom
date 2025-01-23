@@ -15,7 +15,7 @@
 - I'm a student of Systems Development, with a passion since childhood about technology, programming and all the things relationed to computers.
 - Future Computer Scientist looking for the best solutions, and sometimes the funny ones.
 - Mainly Web Developer, but I also like Computer Architecture, Game Development, Desktop and Mobile Aplications, Machine Learning and more.
-- Trying to improve myself every day, especially learning <strong>Web Development and Kotlin</strong>.
+- Trying to improve myself every day, especially learning <strong>Web and Mobile Development</strong>.
 
 <br />
 
