@@ -36,7 +36,6 @@
 - [Portfolio]()
 - [New Year Bingo](https://github.com/neoRandom/new-year-bingo) (Website)
 - [Advent of Code](https://github.com/neoRandom/advent-of-code) (Code storage)
-- [Snippet Converter](https://github.com/neoRandom/quicksnip-snippet-converter)
 </details>
 
 <details open>
@@ -96,6 +95,7 @@
   - [Asymmetric Cryptography](https://github.com/neoRandom/asymmetric-cryptography)
   - [Pomodoro Timer](https://github.com/neoRandom/godot-pomodoro) (Godot)
   - [SQL Pseudocode Transpiler](https://github.com/neoRandom/sql-pseudocode-transpiler)
+  - [Snippet Converter](https://github.com/neoRandom/quicksnip-snippet-converter)
 </details>
 
 <details>
@@ -130,11 +130,11 @@
   <div align="center">
     <h2>Technologies that I use</h2>
     <h3> Most Experience </h3>
-    <img  src="https://skillicons.dev/icons?i=html,css,js,ts,svelte,git,python,flask,php,tailwind,cpp,c&perline=6">
+    <img  src="https://skillicons.dev/icons?i=html,css,js,ts,react,svelte,git,python,php,tailwind,cpp,c&perline=6">
     <h3> Advanced Competence </h3>
-    <img src="https://skillicons.dev/icons?i=rust,mysql,react,next,godot,java,kotlin">
+    <img src="https://skillicons.dev/icons?i=rust,mysql,next,godot,java,kotlin,vite,nodejs&perline=4">
     <h3> Proficient Usage </h3>
-    <img src="https://skillicons.dev/icons?i=tauri,vite,nodejs,firebase,arduino">
+    <img src="https://skillicons.dev/icons?i=tauri,express,mongodb,firebase,arduino">
   </div>
 </section>
 
