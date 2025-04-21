@@ -147,8 +147,8 @@
     <img  src="https://skillicons.dev/icons?i=ts,python,godot,kotlin,php,cpp,rust,bash">
     <h3> Frameworks / Libraries </h3>
     <img src="https://skillicons.dev/icons?i=next,vite,express,react,tailwind,tauri,laravel,flask">
-    <h3> Infra / Databases </h3>
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,firebase,redis,vercel,windows,linux">
+    <h3> Infrastructure and Databases </h3>
+    <img src="https://skillicons.dev/icons?i=linux,windows,vercel,firebase,mongodb,redis,mysql,sqlite">
     <h3> Tools </h3>
     <img src="https://skillicons.dev/icons?i=git,github,nix,nodejs,deno,postman,docker,kubernetes">
   </div>
