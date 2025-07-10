@@ -145,7 +145,7 @@
     <h2>Technologies that I use</h2>
     <h3> Languages </h3>
     <img  src="https://skillicons.dev/icons?i=ts,python,godot,kotlin,php,cpp,rust,bash">
-    <h3> Frameworks / Libraries </h3>
+    <h3> Frameworks and Libraries </h3>
     <img src="https://skillicons.dev/icons?i=next,vite,express,react,tailwind,tauri,laravel,flask">
     <h3> Infrastructure and Databases </h3>
     <img src="https://skillicons.dev/icons?i=linux,windows,vercel,firebase,mongodb,redis,mysql,sqlite">
