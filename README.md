@@ -19,6 +19,7 @@
 
 <br />
 
+<!--
 ## Projects
 
 <details open>
@@ -125,6 +126,7 @@
 </details>
 
 <br />
+-->
 
 <!--
 <section>
