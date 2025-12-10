@@ -144,7 +144,7 @@
 
 <section>
   <div align="center">
-    <h2>Technologies that I use</h2>
+    <h2> Some of the Technologies I've already used </h2>
     <h3> Languages </h3>
     <img  src="https://skillicons.dev/icons?i=ts,python,godot,kotlin,php,cpp,rust,bash">
     <h3> Frameworks and Libraries </h3>
@@ -157,11 +157,11 @@
 </section>
 
 
-<br />
+<!-- <br />
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=neoRandom&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
-</div>
+</div> -->
 
 <br />
 
