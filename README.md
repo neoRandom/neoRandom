@@ -26,128 +26,41 @@ Turning complex low-level challenges into clean, scalable high-level systems and
 
 <br />
 
-<!--
-## Projects
+## Featured Projects
+
+A curated selection of my work, ranging from low-level systems and language design to modern scalable architectures.
 
 <details open>
-<summary> <b>Best</b> </summary>
+  <summary> <b>Systems & High-Performance</b> </summary>
   
-- [Full Stack Chat App](https://github.com/neoRandom/fullstack-chat-app)
-- [Quickmart](https://github.com/neoRandom/quickmart-website) (Website)
-- [The Game Tips](https://github.com/neoRandom/the-game-tips-website) (Website)
-- [Brainfuck Projects](https://github.com/neoRandom/brainduck-projects) (Interpreters and Compilers)
+  - **[rust-http-server](https://github.com/neoRandom/rust-http-server)**: An implementation of the HTTP protocol from scratch using Rust. Focused on understanding the TCP/IP stack and socket programming without high-level abstractions.
+  - **[brainduck-rs](https://github.com/neoRandom/brainduck-rs)**: A high-performance Brainfuck interpreter. More than just a tool, it showcases Hexagonal Architecture in Rust, featuring a robust test suite and documented engineering trade-offs.
+  - **[gravity-simulator](https://github.com/neoRandom/gravity-simulator)**: A physics engine core written in C. Demonstrates manual memory management and the use of mathematical algorithms to solve real-time simulation challenges.
 </details>
 
 <details open>
-<summary> <b>Personal</b> </summary>
-
-- [Portfolio]()
-- [New Year Bingo](https://github.com/neoRandom/new-year-bingo) (Website)
-- [Advent of Code](https://github.com/neoRandom/advent-of-code) (Code storage)
-</details>
-
-<details open>
-<summary> <b>Web Development</b> </summary>
-
-- [File Sharing System Host](https://github.com/neoRandom/file-sharing-system-host)
-- [CSS Flexbox](https://github.com/neoRandom/css) (Guide)
-- [Expense Tracker](https://github.com/neoRandom/expense-tracker)
-- [Teams Webapp Clone](https://github.com/neoRandom/teams-clone)
-</details>
-
-<details open>
-  <summary> <b>Android Development</b> </summary>
-
-  - [Art Space](https://github.com/neoRandom/art-space)
-</details>
-
-<details open>
-<summary> <b>HTTP Server and Web API (Things that somehow have network and internet as their focus)</b> </summary>
-
-- [HTTP Server in Rust](https://github.com/neoRandom/rust-http-server)
-- [HTTP Server in C](https://github.com/neoRandom/c-http-server)
-- [Youtube Downloader](https://github.com/neoRandom/youtube-downloader)
-- [The Game Tips](https://github.com/neoRandom/dicas-de-jogos-api) (API)
-- [File Sharing System Client](https://github.com/neoRandom/file-sharing-system-client)
-- [CLI Message App](https://github.com/neoRandom/cli-message-app) (Python; Linux)
-- [Python Host Finder](https://github.com/neoRandom/python-host-finder)
-</details>
-
-<details open>
-<summary> <b>CRUD</b> </summary>
-
-- [MySQL CRUD in Python](https://github.com/neoRandom/python-mysql-crud) (Guide)
-- [MySQL CRUD in Java](https://github.com/neoRandom/java-crud)
-- [MySQL CRUD in PHP](https://github.com/neoRandom/php-crud)
-</details>
-
-<details open>
-  <summary> <b>Games</b> </summary>
+  <summary> <b>Architecture & Backend</b> </summary>
   
-  - [Pong in Godot](https://github.com/neoRandom/godot-ping-pong)
-  - [Dark Forest Game](https://github.com/neoRandom/dark-forest)
-  - [Pong in Python](https://github.com/neoRandom/PingPong)
-  - [The FPS](https://github.com/neoRandom/the-fps)
-  - [Runneer Game](https://github.com/neoRandom/Runneer)
+  - **[fastapi-uv-docker-boilerplate](https://github.com/neoRandom/fastapi-uv-docker-boilerplate)**: A professional-grade starter for modern Python services. Orchestrates **FastAPI, Redis, and Postgres** using **uv** for blazing-fast dependency management and Docker Compose for reproducible environments.
+  - **[file-sharing-system-host](https://github.com/neoRandom/file-sharing-system-host)**: An exploration into networked systems, focusing on data transfer protocols and server-side file management.
 </details>
 
 <details open>
-  <summary> <b>Low Level / High Performance</b> </summary>
+  <summary> <b>Low-Level & Security</b> </summary>
   
-  - [Gravity Simulator](https://github.com/neoRandom/gravity-simulator)
+  - **[asymmetric-cryptography](https://github.com/neoRandom/asymmetric-cryptography)**: A deep dive into security fundamentals. Implementation of cryptographic algorithms to understand the mathematical underpinnings of modern data protection in web.
+  - **[assembly-x86_64-nasm](https://github.com/neoRandom/assembly-x86_64-nasm)**: Projects written in NASM to master CPU registers, system calls, and the inner workings of the x86_64 architecture, including a custom library. My "bare metal" experience.
 </details>
 
-<details>
-  <summary> <b>Utils</b> </summary>
+<details open>
+  <summary> <b>Utilities & Experiments</b> </summary>
   
-  - [Asymmetric Cryptography](https://github.com/neoRandom/asymmetric-cryptography)
-  - [Pomodoro Timer](https://github.com/neoRandom/godot-pomodoro) (Godot)
-  - [SQL Pseudocode Transpiler](https://github.com/neoRandom/sql-pseudocode-transpiler)
-  - [Snippet Converter](https://github.com/neoRandom/quicksnip-snippet-converter)
-</details>
-
-<details>
-  <summary> <b>Bundles</b> </summary>
-  
-  - [Python Projects](https://github.com/neoRandom/python-projects)
-  - [Web Projects](https://github.com/neoRandom/web-projects)
-  - [Assembly Projects](https://github.com/neoRandom/assembly-x86_64-nasm) (x86_64; Linux; NASM)
-</details>
-
-<details>
-<summary> <b>Projects outside of GitHub</b> </summary>
-
-- 8-Bits Computer - [Logisim Evolution](https://github.com/logisim-evolution/logisim-evolution)
-- [Temperature and Humidity Sensor](https://www.tinkercad.com/things/lOL1p0BtqZh-temp-and-humi-sensor) - [Tinkercad](https://www.tinkercad.com/)
-- [Arduino Calculator](https://www.tinkercad.com/things/27Vxyu2kgPk-calculadora) - [Tinkercad](https://www.tinkercad.com/)
-- [Essencial Suplementos Website](https://www.essencialsuplementosnat.com.br/) - [Wix](https://www.wix.com/)
-</details>
-
-<details>
-<summary> <b>To finish</b> </summary>
-
-- [Neo New Neovim](https://github.com/neoRandom/neo-new-neovim)
-- [Virtual Machine in C](https://github.com/neoRandom/virtual-machine-in-c)
-- [mNeomonics](https://github.com/neoRandom/mneomonics)
-- [neWord](https://github.com/neoRandom/neword)
+  - **[sql-pseudocode-transpiler](https://github.com/neoRandom/sql-pseudocode-transpiler)**: A tool to parse and transform a custom pseudocode into SQL, JSON and xlsx (Excel), demonstrating skills in Lexical Analysis and Abstract Syntax Trees (AST).
+  - **[youtube-downloader](https://github.com/neoRandom/youtube-downloader)**: A practical automation tool. Focused on handling external APIs, media streams, and providing a clean CLI/UI experience.
+  - **[godot-pomodoro](https://github.com/neoRandom/godot-pomodoro)**: A productivity tool built with the Godot Engine. Highlights my versatility in learning different languages (DSLs; Godot) and UI/UX state management.
 </details>
 
 <br />
--->
-
-<!--
-<section>
-  <div align="center">
-    <h2>Technologies that I use</h2>
-    <h3> Most Experience </h3>
-    <img  src="https://skillicons.dev/icons?i=html,css,js,ts,react,svelte,git,python,php,tailwind,cpp,c&perline=6">
-    <h3> Advanced Competence </h3>
-    <img src="https://skillicons.dev/icons?i=rust,mysql,next,godot,java,kotlin,vite,nodejs&perline=4">
-    <h3> Proficient Usage </h3>
-    <img src="https://skillicons.dev/icons?i=tauri,express,mongodb,firebase,arduino">
-  </div>
-</section>
--->
 
 <section>
   <div align="center">
@@ -164,11 +77,11 @@ Turning complex low-level challenges into clean, scalable high-level systems and
 </section>
 
 
-<!-- <br />
+<br />
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=neoRandom&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
-</div> -->
+  <a href="https://githubreadmestatsfast.vercel.app"><img src="https://github-readme-stats-fast.vercel.app/api/streak?username=neoRandom&theme=github_dark" alt="GitHub Streak" /></a>
+</div>
 
 <br />
 
