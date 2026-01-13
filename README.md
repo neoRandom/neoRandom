@@ -12,10 +12,17 @@
 <br />
   
 ## About me
-- I'm a student of Systems Development, with a passion since childhood about technology, programming and all the things relationed to computers.
-- Future Computer Scientist looking for the best solutions, and sometimes the funny ones.
-- Mainly Web Developer, but I also like Computer Architecture, Game Development, Desktop and Mobile Aplications, Machine Learning and more.
-- Trying to improve myself every day, especially learning <strong>Web and Mobile Development</strong>.
+I am a Software Engineer focused on building high-performance, scalable systems. My expertise lies at the intersection of robust architecture and low-level efficiency.
+
+- Deep Dive: I enjoy exploring the internals of software through C++, Rust, and Assembly.
+
+- Architecture: I apply patterns like Hexagonal Architecture to ensure maintainable and decoupled codebases.
+
+- Specialization: Currently mastering the Go ecosystem to build high-concurrency and performant backend solutions.
+
+- Environment: Power user of Linux, automation, and full-stack development.
+
+Turning complex low-level challenges into clean, scalable high-level systems and always looking for a better future.
 
 <br />
 
@@ -146,13 +153,13 @@
   <div align="center">
     <h2> Some of the Technologies I've already used </h2>
     <h3> Languages </h3>
-    <img  src="https://skillicons.dev/icons?i=ts,python,godot,kotlin,php,cpp,rust,bash">
+    <img  src="https://skillicons.dev/icons?i=rust,go,ts,c,cpp,python,bash">
     <h3> Frameworks and Libraries </h3>
-    <img src="https://skillicons.dev/icons?i=next,vite,express,react,tailwind,tauri,laravel,flask">
+    <img src="https://skillicons.dev/icons?i=next,flask,vite,express,react,tailwind,laravel">
     <h3> Infrastructure and Databases </h3>
-    <img src="https://skillicons.dev/icons?i=linux,windows,vercel,firebase,mongodb,redis,mysql,sqlite">
+    <img src="https://skillicons.dev/icons?i=supabase,mongodb,redis,linux,postgres,mysql,sqlite">
     <h3> Tools </h3>
-    <img src="https://skillicons.dev/icons?i=git,github,nix,nodejs,deno,postman,docker,kubernetes">
+    <img src="https://skillicons.dev/icons?i=git,githubactions,nix,nodejs,deno,postman,docker">
   </div>
 </section>
 
