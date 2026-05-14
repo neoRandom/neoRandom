@@ -66,13 +66,13 @@ A curated selection of my work, ranging from low-level systems and language desi
   <div align="center">
     <h2> Some of the Technologies I've already used </h2>
     <h3> Languages </h3>
-    <img  src="https://skillicons.dev/icons?i=rust,go,ts,c,cpp,python,bash">
+    <img  src="https://skillicons.dev/icons?i=rust,go,ts,c,cpp,python">
     <h3> Frameworks and Libraries </h3>
-    <img src="https://skillicons.dev/icons?i=next,flask,vite,express,react,tailwind,laravel">
+    <img src="https://skillicons.dev/icons?i=next,flask,vite,express,react,tailwind">
     <h3> Infrastructure and Databases </h3>
-    <img src="https://skillicons.dev/icons?i=supabase,mongodb,redis,linux,postgres,mysql,sqlite">
+    <img src="https://skillicons.dev/icons?i=supabase,redis,linux,postgres,mysql,sqlite">
     <h3> Tools </h3>
-    <img src="https://skillicons.dev/icons?i=git,githubactions,nix,nodejs,deno,postman,docker">
+    <img src="https://skillicons.dev/icons?i=git,githubactions,nix,nodejs,postman,docker">
   </div>
 </section>
 
