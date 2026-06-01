@@ -12,17 +12,17 @@
 <br />
   
 ## About me
-I am a Software Engineer focused on building high-performance, scalable systems. My expertise lies at the intersection of robust architecture and low-level efficiency.
+I am a Software Engineer focused on building high-performance, scalable systems. My ability lies at the intersection of robust architecture and low-level efficiency.
 
-- Deep Dive: I enjoy exploring the internals of software through C++, Rust, and Assembly.
+- I enjoy exploring the internals of software through C++, Rust, and Assembly.
 
-- Architecture: I apply patterns like Hexagonal Architecture to ensure maintainable and decoupled codebases.
+- I apply patterns like Hexagonal Architecture to ensure maintainable and decoupled codebases.
 
-- Specialization: Currently mastering the Go ecosystem to build high-concurrency and performant backend solutions.
+- Currently mastering the Go ecosystem to build high-concurrency and performant backend solutions.
 
-- Environment: Power user of Linux, automation, and full-stack development.
+- Power user of Linux, automation, and full-stack development.
 
-Turning complex low-level challenges into clean, scalable high-level systems and always looking for a better future.
+Turning complex low-level challenges into clean, efficient systems, and always looking for a better future.
 
 <br />
 
