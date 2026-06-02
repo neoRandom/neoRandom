@@ -10,8 +10,6 @@ I am a Software Engineer focused on building high-performance systems, while kee
 
 - Currently mastering the Go ecosystem to build high-concurrency and performant backend solutions
 
-- Power user of Linux, automation, and full-stack development
-
 Turning complex low-level challenges into clean, efficient systems, and always looking for a better future
 
 <blockquote>
@@ -21,8 +19,6 @@ Turning complex low-level challenges into clean, efficient systems, and always l
 </blockquote>
 
 ##
-
-A curated selection of my work
 
 <details open>
   <summary> <b>Systems & High-Performance</b> </summary>
