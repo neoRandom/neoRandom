@@ -38,21 +38,21 @@ A curated selection of my work
   - **[gravity-simulator](https://github.com/neoRandom/gravity-simulator)**: A physics engine core written in C. Demonstrates manual memory management and the use of mathematical algorithms to solve real-time simulation challenges
 </details>
 
-<details open>
+<details close>
   <summary> <b>Architecture & Backend</b> </summary>
   
   - **[fastapi-uv-docker-boilerplate](https://github.com/neoRandom/fastapi-uv-docker-boilerplate)**: A professional-grade starter for modern Python services. Orchestrates **FastAPI, Redis, and Postgres** using **uv** for blazing-fast dependency management and Docker Compose for reproducible environments
   - **[file-sharing-system-host](https://github.com/neoRandom/file-sharing-system-host)**: An exploration into networked systems, focusing on data transfer and server-side file management
 </details>
 
-<details open>
+<details close>
   <summary> <b>Low-Level & Security</b> </summary>
   
   - **[asymmetric-cryptography](https://github.com/neoRandom/asymmetric-cryptography)**: A dive into security fundamentals. Implementation of cryptographic algorithms to understand the mathematical underpinnings of modern data protection in web
   - **[assembly-x86_64-nasm](https://github.com/neoRandom/assembly-x86_64-nasm)**: Projects written in NASM to master CPU registers, system calls, and the inner workings of the x86_64 architecture, including a custom library. My "bare metal" experience
 </details>
 
-<details open>
+<details close>
   <summary> <b>Utilities & Experiments</b> </summary>
   
   - **[sql-pseudocode-transpiler](https://github.com/neoRandom/sql-pseudocode-transpiler)**: A tool to parse and transform a custom pseudocode into SQL, JSON and xlsx (Excel), demonstrating skills in Lexical Analysis and Abstract Syntax Trees (AST)
@@ -84,7 +84,7 @@ A curated selection of my work
     <br /><br />
     <img src="https://skillicons.dev/icons?i=supabase,redis,linux,postgres,sqlite,docker">
     <br /><br />
-    <img src="https://skillicons.dev/icons?i=git,nix,neovim,vscode,androidstudio,obsidian">
+    <img src="https://skillicons.dev/icons?i=git,nix,bash,neovim,vscode,obsidian">
   </div>
 </section>
 
