@@ -1,17 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5589d6&height=120&section=header"/>
 
 <h1 align="center">Hi 👋, I'm Fellipe Leonardo (a.k.a. Neo)</h1>
-<h3>
-<blockquote>
-  “Intelligence is the ability to avoid doing work, yet getting the work done.”
-  <br />
-  ― Linus Torvalds
-</blockquote>
-</h3>
 
-<br />
-  
-## About me
 I am a Software Engineer focused on building high-performance systems, while keeping in mind trade-offs and architecture
 
 - I enjoy exploring the internals of software through C++, Rust, and Assembly
@@ -24,9 +14,13 @@ I am a Software Engineer focused on building high-performance systems, while kee
 
 Turning complex low-level challenges into clean, efficient systems, and always looking for a better future
 
-<br />
+<blockquote>
+  “I build to understand, and understand to build.”
+  <br />
+  ― A reinterpretation of Richard Feynman's quote
+</blockquote>
 
-## Featured Projects
+##
 
 A curated selection of my work
 
@@ -94,7 +88,5 @@ A curated selection of my work
 <div align="center">
   <a href="https://githubreadmestatsfast.vercel.app"><img src="https://github-readme-stats-fast.vercel.app/api/streak?username=neoRandom&theme=github_dark" alt="GitHub Streak" /></a>
 </div>
-
-<br />
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5589d6&height=120&section=footer"/>
