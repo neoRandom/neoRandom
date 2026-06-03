@@ -70,7 +70,7 @@ Turning complex low-level challenges into clean, efficient systems, and always l
     <br />
     <img src="https://skillicons.dev/icons?i=rust,go,ts,c,python">
     <br /><br />
-    <img src="https://skillicons.dev/icons?i=next,react,tauri,flask,godot">
+    <img src="https://skillicons.dev/icons?i=next,express,tauri,flask,godot">
     <br /><br />
     <img src="https://skillicons.dev/icons?i=sqlite,postgres,redis,linux,docker">
     <br /><br />
