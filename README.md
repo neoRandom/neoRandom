@@ -68,13 +68,13 @@ Turning complex low-level challenges into clean, efficient systems, and always l
   <div align="center">
     <h2></h2>
     <br />
-    <img src="https://skillicons.dev/icons?i=rust,go,ts,c,cpp,python">
+    <img src="https://skillicons.dev/icons?i=rust,go,ts,c,python">
     <br /><br />
-    <img src="https://skillicons.dev/icons?i=next,express,react,tauri,flask,godot">
+    <img src="https://skillicons.dev/icons?i=next,react,tauri,flask,godot">
     <br /><br />
-    <img src="https://skillicons.dev/icons?i=supabase,redis,linux,postgres,sqlite,docker">
+    <img src="https://skillicons.dev/icons?i=redis,linux,postgres,sqlite,docker">
     <br /><br />
-    <img src="https://skillicons.dev/icons?i=git,nix,bash,neovim,vscode,obsidian">
+    <img src="https://skillicons.dev/icons?i=git,nix,obsidian,neovim,vscode">
   </div>
 </section>
 
