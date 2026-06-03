@@ -72,7 +72,7 @@ Turning complex low-level challenges into clean, efficient systems, and always l
     <br /><br />
     <img src="https://skillicons.dev/icons?i=next,react,tauri,flask,godot">
     <br /><br />
-    <img src="https://skillicons.dev/icons?i=redis,sqlite,postgres,linux,docker">
+    <img src="https://skillicons.dev/icons?i=sqlite,postgres,redis,linux,docker">
     <br /><br />
     <img src="https://skillicons.dev/icons?i=git,nix,obsidian,neovim,vscode">
   </div>
