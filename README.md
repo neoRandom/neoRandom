@@ -20,17 +20,10 @@ Turning complex low-level challenges into clean, efficient systems, and always l
 
 ##
 
-<details open>
-  <summary> <b>Systems & High-Performance</b> </summary>
-  
-  - **[rust-http-server](https://github.com/neoRandom/rust-http-server)**: An implementation of the HTTP protocol from scratch using Rust. Focused on understanding the TCP/IP stack and socket programming without high-level abstractions
-  - **[brainduck-rs](https://github.com/neoRandom/brainduck-rs)**: A high-performance Brainfuck interpreter. It showcases Hexagonal Architecture in Rust, featuring a test suite and documented engineering trade-offs
-  - **[gravity-simulator](https://github.com/neoRandom/gravity-simulator)**: A physics engine core written in C. Demonstrates manual memory management and the use of mathematical algorithms to solve real-time simulation challenges
-</details>
-
 <details close>
   <summary> <b>Architecture & Backend</b> </summary>
   
+  - **[architecture-scaffolding](https://github.com/neoRandom/architecture-scaffolding)**: A tool for scaffolding projects using Hexagonal Architecture (or similar architectural styles), built with Godot.
   - **[fastapi-uv-docker-boilerplate](https://github.com/neoRandom/fastapi-uv-docker-boilerplate)**: A professional-grade starter for modern Python services. Orchestrates **FastAPI, Redis, and Postgres** using **uv** for blazing-fast dependency management and Docker Compose for reproducible environments
   - **[file-sharing-system-host](https://github.com/neoRandom/file-sharing-system-host)**: An exploration into networked systems, focusing on data transfer and server-side file management
 </details>
@@ -43,8 +36,17 @@ Turning complex low-level challenges into clean, efficient systems, and always l
 </details>
 
 <details close>
-  <summary> <b>Utilities & Experiments</b> </summary>
+  <summary> <b>Systems & High-Performance</b> </summary>
   
+  - **[rust-http-server](https://github.com/neoRandom/rust-http-server)**: An implementation of the HTTP protocol from scratch using Rust. Focused on understanding the TCP/IP stack and socket programming without high-level abstractions
+  - **[brainduck-rs](https://github.com/neoRandom/brainduck-rs)**: A high-performance Brainfuck interpreter. It showcases Hexagonal Architecture in Rust, featuring a test suite and documented engineering trade-offs
+  - **[gravity-simulator](https://github.com/neoRandom/gravity-simulator)**: A physics engine core written in C. Demonstrates manual memory management and the use of mathematical algorithms to solve real-time simulation challenges
+</details>
+
+<details close>
+  <summary> <b>Utilities & Tooling</b> </summary>
+
+  - **[architecture-scaffolding](https://github.com/neoRandom/architecture-scaffolding)**: A tool for scaffolding projects using Hexagonal Architecture (or similar architectural styles), built with Godot.
   - **[sql-pseudocode-transpiler](https://github.com/neoRandom/sql-pseudocode-transpiler)**: A tool to parse and transform a custom pseudocode into SQL, JSON and xlsx (Excel), demonstrating skills in Lexical Analysis and Abstract Syntax Trees (AST)
   - **[youtube-downloader](https://github.com/neoRandom/youtube-downloader)**: A practical automation tool. Focused on handling external APIs, media streams, and providing a clean CLI/UI experience
   - **[godot-pomodoro](https://github.com/neoRandom/godot-pomodoro)**: A productivity tool built with the Godot Engine. Highlights my versatility in learning different languages (DSLs; Godot) and UI/UX state management
