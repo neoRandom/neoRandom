@@ -2,11 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Fellipe Leonardo</h1>
 
-Software Engineer specializing in backend systems and low-level programming.
+I'm a Software Engineer specializing in backend systems
 
-I build across the full depth of the stack, from x86 Assembly and manual memory management in C, to scalable backend services with TypeScript, Go, Redis, and Docker. I care about understanding how things actually work, not just making them work.
+I build across the full depth of the stack, from x86_64 Assembly and manual memory management in Rust, to scalable backend services with TypeScript, Go, Redis, and Docker, while mindful about trade-offs and architecture
 
-Currently building with Go for high-concurrency backends. Open to my first professional role in backend or systems development.
+Currently building with Go for high-concurrency backends
 
 <blockquote>
   “I build to understand, and understand to build.”
@@ -19,7 +19,7 @@ Currently building with Go for high-concurrency backends. Open to my first profe
 <details close>
   <summary> <b>Architecture & Backend</b> </summary>
   
-  - **[architecture-scaffolding](https://github.com/neoRandom/architecture-scaffolding)**: A tool for scaffolding projects using Hexagonal Architecture (or similar architectural styles), built with Godot.
+  - **[architecture-scaffolding](https://github.com/neoRandom/architecture-scaffolding)**: A tool for scaffolding projects using Hexagonal Architecture (or similar architectural styles), built with Godot
   - **[fastapi-uv-docker-boilerplate](https://github.com/neoRandom/fastapi-uv-docker-boilerplate)**: A professional-grade starter for modern Python services. Orchestrates **FastAPI, Redis, and Postgres** using **uv** for blazing-fast dependency management and Docker Compose for reproducible environments
   - **[file-sharing-system-host](https://github.com/neoRandom/file-sharing-system-host)**: An exploration into networked systems, focusing on data transfer and server-side file management
 </details>
@@ -42,7 +42,7 @@ Currently building with Go for high-concurrency backends. Open to my first profe
 <details close>
   <summary> <b>Utilities & Tooling</b> </summary>
 
-  - **[architecture-scaffolding](https://github.com/neoRandom/architecture-scaffolding)**: A tool for scaffolding projects using Hexagonal Architecture (or similar architectural styles), built with Godot.
+  - **[architecture-scaffolding](https://github.com/neoRandom/architecture-scaffolding)**: A tool for scaffolding projects using Hexagonal Architecture (or similar architectural styles), built with Godot
   - **[sql-pseudocode-transpiler](https://github.com/neoRandom/sql-pseudocode-transpiler)**: A tool to parse and transform a custom pseudocode into SQL, JSON and xlsx (Excel), demonstrating skills in Lexical Analysis and Abstract Syntax Trees (AST)
   - **[youtube-downloader](https://github.com/neoRandom/youtube-downloader)**: A practical automation tool. Focused on handling external APIs, media streams, and providing a clean CLI/UI experience
   - **[godot-pomodoro](https://github.com/neoRandom/godot-pomodoro)**: A productivity tool built with the Godot Engine. Highlights my versatility in learning different languages (DSLs; Godot) and UI/UX state management
