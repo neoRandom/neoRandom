@@ -1,16 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5589d6&height=120&section=header"/>
 
-<h1 align="center">Hi 👋, I'm Fellipe Leonardo (a.k.a. Neo)</h1>
+<h1 align="center">Hi 👋, I'm Fellipe Leonardo</h1>
 
-I am a Software Engineer focused on building high-performance systems, while keeping in mind trade-offs and architecture
+Software Engineer specializing in backend systems and low-level programming.
 
-- I enjoy exploring the internals of software through C++, Rust, and Assembly
+I build across the full depth of the stack, from x86 Assembly and manual memory management in C, to scalable backend services with TypeScript, Go, Redis, and Docker. I care about understanding how things actually work, not just making them work.
 
-- I apply patterns like Hexagonal Architecture to ensure maintainable and decoupled codebases
-
-- Currently mastering the Go ecosystem to build high-concurrency and performant backend solutions
-
-Turning complex low-level challenges into clean, efficient systems, and always looking for a better future
+Currently building with Go for high-concurrency backends. Open to my first professional role in backend or systems development.
 
 <blockquote>
   “I build to understand, and understand to build.”
