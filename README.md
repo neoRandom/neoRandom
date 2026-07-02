@@ -70,7 +70,7 @@ Currently building with Go for high-concurrency backends
     <br /><br />
     <img src="https://skillicons.dev/icons?i=next,express">&nbsp;
     <img src="https://skills.syvixor.com/api/icons?i=n8n">&nbsp;
-    <img src="https://skillicons.dev/icons?i=flask,godot">
+    <img src="https://skillicons.dev/icons?i=godot,flask">
     <br /><br />
     <img src="https://skillicons.dev/icons?i=sqlite,postgres,redis,linux,docker">
     <br /><br />
