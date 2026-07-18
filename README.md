@@ -67,10 +67,10 @@ Currently building with Go for high-concurrency backends
     <h2></h2>
     <br />
     <img src="https://skillicons.dev/icons?i=rust,go,ts,c,python">
-    <br /><br />
+    <!-- <br /><br />
     <img src="https://skillicons.dev/icons?i=next,express">&nbsp;
     <img src="https://skills.syvixor.com/api/icons?i=n8n">&nbsp;
-    <img src="https://skillicons.dev/icons?i=godot,flask">
+    <img src="https://skillicons.dev/icons?i=godot,flask"> -->
     <br /><br />
     <img src="https://skillicons.dev/icons?i=sqlite,postgres,redis,linux,docker">
     <br /><br />
