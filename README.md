@@ -6,7 +6,7 @@ I'm a Software Engineer specializing in backend systems
 
 I build across the full depth of the stack, from x86_64 Assembly and manual memory management in Rust, to scalable backend services with TypeScript, Go, Redis, and Docker, while mindful about trade-offs and architecture
 
-Currently building with Go for high-concurrency backends
+Currently building with Go for quick iteration on high-concurrency backends
 
 <blockquote>
   “I build to understand, and understand to build.”
