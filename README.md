@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5589d6&height=120&section=header"/>
+<img width=100% src="top_wave.svg"/>
 
 <h1 align="center">Hi 👋, I'm Fellipe Leonardo</h1>
 
@@ -8,15 +8,16 @@ I work across multiple levels of the stack, from x86-64 Assembly and manual memo
 
 I'm currently using Go as my primary language for developing practical, concurrent, and infrastructure-oriented software.
 
-<blockquote>
+<blockquote align="right">
   “I build to understand, and understand to build.”
   <br />
   ― A reinterpretation of Richard Feynman's quote
 </blockquote>
 
+<h2></h2>
+
 <section>
   <div align="center">
-    <h2></h2>
     <br />
     <img src="languages.svg">
     <br /><br />
@@ -32,4 +33,4 @@ I'm currently using Go as my primary language for developing practical, concurre
   <a href="https://githubreadmestatsfast.vercel.app"><img src="https://github-readme-stats-fast.vercel.app/api/streak?username=neoRandom&theme=github_dark" alt="GitHub Streak" /></a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5589d6&height=120&section=footer"/>
+<img width=100% src="bottom_wave.svg"/>
