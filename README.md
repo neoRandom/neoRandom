@@ -20,7 +20,7 @@ I'm currently using Go as my primary language for developing practical, concurre
     <br />
     <img src="https://skills.syvixor.com/api/icons?i=rust,go,ts,c,python">
     <br /><br />
-    <img src="https://skills.syvixor.com/api/icons?i=sqlite,postgresql,valkey,linux,docker">
+    <img src="https://skills.syvixor.com/api/icons?i=sqlite,postgresql,valkey,linux,podman">
     <br /><br />
     <img src="https://skills.syvixor.com/api/icons?i=godot,flutter,n8n,esp32,raspberrypi">
   </div>
