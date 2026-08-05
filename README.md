@@ -18,11 +18,11 @@ I'm currently using Go as my primary language for developing practical, concurre
   <div align="center">
     <h2></h2>
     <br />
-    <img src="https://skills.syvixor.com/api/icons?i=rust,go,ts,c,python">
+    <img src="languages.svg">
     <br /><br />
-    <img src="https://skills.syvixor.com/api/icons?i=sqlite,postgresql,valkey,linux,podman">
+    <img src="infrastructure.svg">
     <br /><br />
-    <img src="https://skills.syvixor.com/api/icons?i=godot,flutter,n8n,esp32,raspberrypi">
+    <img src="etc.svg">
   </div>
 </section>
 
