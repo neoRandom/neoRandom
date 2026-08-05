@@ -2,11 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Fellipe Leonardo</h1>
 
-I'm a Software Engineer specializing in backend systems
+I'm a software engineer focused on building reliable, maintainable systems.
 
-I build across the full depth of the stack, from x86_64 Assembly and manual memory management in Rust, to scalable backend services with TypeScript, Go, Redis, and Docker, while mindful about trade-offs and architecture
+I work across multiple levels of the stack, from x86-64 Assembly and manual memory management in Rust to applications and services built with Go and TypeScript. I care about understanding how systems behave, choosing appropriate abstractions, and making architectural trade-offs explicit.
 
-Currently building with Go for quick iteration on high-concurrency backends
+I'm currently using Go as my primary language for developing practical, concurrent, and infrastructure-oriented software.
 
 <blockquote>
   “I build to understand, and understand to build.”
@@ -14,70 +14,17 @@ Currently building with Go for quick iteration on high-concurrency backends
   ― A reinterpretation of Richard Feynman's quote
 </blockquote>
 
-##
-
-<details close>
-  <summary> <b>Architecture & Backend</b> </summary>
-  
-  - **[architecture-scaffolding](https://github.com/neoRandom/architecture-scaffolding)**: A tool for scaffolding projects using Hexagonal Architecture (or similar architectural styles), built with Godot
-  - **[fastapi-uv-docker-boilerplate](https://github.com/neoRandom/fastapi-uv-docker-boilerplate)**: A professional-grade starter for modern Python services. Orchestrates **FastAPI, Redis, and Postgres** using **uv** for blazing-fast dependency management and Docker Compose for reproducible environments
-  - **[file-sharing-system-host](https://github.com/neoRandom/file-sharing-system-host)**: An exploration into networked systems, focusing on data transfer and server-side file management
-</details>
-
-<details close>
-  <summary> <b>Low-Level & Security</b> </summary>
-  
-  - **[asymmetric-cryptography](https://github.com/neoRandom/asymmetric-cryptography)**: A dive into security fundamentals. Implementation of cryptographic algorithms to understand the mathematical underpinnings of modern data protection in web
-  - **[assembly-x86_64-nasm](https://github.com/neoRandom/assembly-x86_64-nasm)**: Projects written in NASM to master CPU registers, system calls, and the inner workings of the x86_64 architecture, including a custom library. My "bare metal" experience
-</details>
-
-<details close>
-  <summary> <b>Systems & High-Performance</b> </summary>
-  
-  - **[rust-http-server](https://github.com/neoRandom/rust-http-server)**: An implementation of the HTTP protocol from scratch using Rust. Focused on understanding the TCP/IP stack and socket programming without high-level abstractions
-  - **[brainduck-rs](https://github.com/neoRandom/brainduck-rs)**: A high-performance Brainfuck interpreter. It showcases Hexagonal Architecture in Rust, featuring a test suite and documented engineering trade-offs
-  - **[gravity-simulator](https://github.com/neoRandom/gravity-simulator)**: A physics engine core written in C. Demonstrates manual memory management and the use of mathematical algorithms to solve real-time simulation challenges
-</details>
-
-<details close>
-  <summary> <b>Utilities & Tooling</b> </summary>
-
-  - **[architecture-scaffolding](https://github.com/neoRandom/architecture-scaffolding)**: A tool for scaffolding projects using Hexagonal Architecture (or similar architectural styles), built with Godot
-  - **[sql-pseudocode-transpiler](https://github.com/neoRandom/sql-pseudocode-transpiler)**: A tool to parse and transform a custom pseudocode into SQL, JSON and xlsx (Excel), demonstrating skills in Lexical Analysis and Abstract Syntax Trees (AST)
-  - **[youtube-downloader](https://github.com/neoRandom/youtube-downloader)**: A practical automation tool. Focused on handling external APIs, media streams, and providing a clean CLI/UI experience
-  - **[godot-pomodoro](https://github.com/neoRandom/godot-pomodoro)**: A productivity tool built with the Godot Engine. Highlights my versatility in learning different languages (DSLs; Godot) and UI/UX state management
-</details>
-
-<!-- <section>
-  <div align="center">
-    <h2> Some of the Technologies I've already used </h2>
-    <h4> Programming Languages </h4>
-    <img  src="https://skillicons.dev/icons?i=rust,go,ts,c,cpp,python">
-    <h4> Libraries & Ecosystems </h4>
-    <img src="https://skillicons.dev/icons?i=next,express,react,tauri,flask,godot">
-    <h4> Data & Infrastructure </h4>
-    <img src="https://skillicons.dev/icons?i=supabase,redis,linux,postgres,sqlite,docker">
-    <h4> Tools </h4>
-    <img src="https://skillicons.dev/icons?i=git,nix,neovim,vscode,androidstudio,obsidian">
-  </div>
-</section> -->
-
 <section>
   <div align="center">
     <h2></h2>
     <br />
-    <img src="https://skillicons.dev/icons?i=rust,go,ts,c,python">
-    <!-- <br /><br />
-    <img src="https://skillicons.dev/icons?i=next,express">&nbsp;
-    <img src="https://skills.syvixor.com/api/icons?i=n8n">&nbsp;
-    <img src="https://skillicons.dev/icons?i=godot,flask"> -->
+    <img src="https://skills.syvixor.com/api/icons?i=rust,go,ts,c,python">
     <br /><br />
-    <img src="https://skillicons.dev/icons?i=sqlite,postgres,redis,linux,docker">
+    <img src="https://skills.syvixor.com/api/icons?i=sqlite,postgresql,valkey,linux,docker">
     <br /><br />
-    <img src="https://skillicons.dev/icons?i=git,nix,obsidian,neovim,vscode">
+    <img src="https://skills.syvixor.com/api/icons?i=godot,flutter,n8n,esp32,raspberrypi">
   </div>
 </section>
-
 
 <br />
 
