@@ -2,11 +2,13 @@
 
 <h1 align="center">Hi 👋, I'm Fellipe Leonardo</h1>
 
-I'm a software engineer focused on building reliable, maintainable systems
+I'm a software engineer focused on building reliable, maintainable, useful systems
 
-I work across multiple levels of the stack, from manual memory management in Rust and C to applications and services built with Go and TypeScript. I care about understanding how systems behave, choosing appropriate abstractions, and making architectural trade-offs explicit
+I work across multiple levels of abstraction, from fine-grained resource management in Rust and C to applications and services built with Python and TypeScript
 
-Go is currently my primary language for building practical systems software and backend services
+I value understanding how systems behave, choosing appropriate abstractions, and making thoughtful trade-off decisions
+
+Go is currently my primary language for building practical software, particularly backend services and systems-oriented tools
 
 <blockquote align="right">
   “I build to understand, and understand to build.”
