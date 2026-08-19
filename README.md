@@ -40,7 +40,7 @@ Go is currently my primary language for building practical software, particularl
 <div align="center">
   <a href="https://www.linkedin.com/in/fellipe-leonardo-peixoto-cunha/"><img alt="LinkedIn"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   &nbsp;
-  <a href="mailto:fellipeleo100@gmail.com"><img alt="Gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:neo.fellipeleo@gmail.com"><img alt="Gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 <img width=100% src="bottom_wave.svg"/>
