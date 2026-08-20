@@ -21,11 +21,11 @@ Go is currently my primary language for building practical software, particularl
 <section>
   <div align="center">
     <br />
-    <img src="languages.svg">
+    <img src="https://skills.syvixor.com/api/icons?i=rust,go,ts,csharp,python">
     <br /><br />
-    <img src="infrastructure.svg">
+    <img src="https://skills.syvixor.com/api/icons?i=sqlite,postgresql,valkey,caddy,podman">
     <br /><br />
-    <img src="etc.svg">
+    <img src="https://skills.syvixor.com/api/icons?i=godot,flutter,n8n,ollama,raspberrypi">
   </div>
 </section>
 
