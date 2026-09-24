@@ -23,9 +23,9 @@ Go is currently my primary language for building practical software, particularl
     <br />
     <img src="https://skills.syvixor.com/api/icons?i=rust,go,ts,csharp,astraluv">
     <br /><br />
-    <img src="https://skills.syvixor.com/api/icons?i=postgresql,sqlite,valkey,ollama,podman">
+    <img src="https://skills.syvixor.com/api/icons?i=postgresql,sqlite,linux,valkey,podman">
     <br /><br />
-    <img src="https://skills.syvixor.com/api/icons?i=godot,n8n,raspberrypi">
+    <img src="https://skills.syvixor.com/api/icons?i=godot,svelte,n8n,raspberrypi">
   </div>
 </section>
 
